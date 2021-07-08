@@ -1,0 +1,6 @@
+Ivanov:20000
+Petrov:3080
+Berezov:4050
+Sidorov:10600
+Borodina:100000
+Dubrovskaya:2300
